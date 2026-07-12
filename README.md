@@ -72,7 +72,7 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at Bangladesh
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-Hashan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="github-readme-stats-bay-three-93.vercel.app/api/top-langs/?username=Rakibul-Hashan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 
 ---
