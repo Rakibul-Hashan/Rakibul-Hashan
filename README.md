@@ -24,9 +24,6 @@
   <a href="https://www.fiverr.com/frrakib" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
-  <a href="https://media.licdn.com/dms/image/v2/D5603AQEHwUUT6k1caA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727279609917?e=1785369600&v=beta&t=D8X-1ERkO4hPdLAL_NHOJ_zrqOTV2CHC1Bpiyy3H6O8" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 </div>
@@ -67,8 +64,8 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at Bangladesh
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul-Hashan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Hashan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%"/>
+  <img src="https://github-readme-stats-bay-three-93.vercel.app/api?username=Rakibul-Hashan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Rakibul-Hashan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%"/>
 </p>
 
 <p>
