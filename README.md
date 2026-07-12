@@ -21,10 +21,10 @@
   <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_ID" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
-  <a href="https://www.fiverr.com/YOUR_FIVERR_USERNAME" target="_blank">
+  <a href="https://www.fiverr.com/frrakib" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL.com" target="_blank">
+  <a href="https://media.licdn.com/dms/image/v2/D5603AQEHwUUT6k1caA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727279609917?e=1785369600&v=beta&t=D8X-1ERkO4hPdLAL_NHOJ_zrqOTV2CHC1Bpiyy3H6O8" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
