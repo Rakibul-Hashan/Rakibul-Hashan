@@ -1,8 +1,3 @@
-Here is the complete, corrected Markdown code for your profile. I've updated the broken URLs to the official public instance so everything renders beautifully.
-
-You can copy and paste this directly into your `README.md` file:
-
-```markdown
 <div align="center">
 
 <a href="https://github.com/Rakibul-Hashan">
@@ -89,5 +84,3 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at Bangladesh
 <div align="center">
   <i>💼 Open to freelance & full-time opportunities — let's build something great together!</i>
 </div>
-
-```
