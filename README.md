@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/rakibulhashanrabbi/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:rakibul@zeroboolean.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~017e18ddf29b788eaf" target="_blank">
