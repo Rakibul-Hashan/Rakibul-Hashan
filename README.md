@@ -18,7 +18,7 @@
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_ID" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~017e18ddf29b788eaf" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
   <a href="https://www.fiverr.com/frrakib" target="_blank">
