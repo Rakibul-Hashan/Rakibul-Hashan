@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Typing animation header -->
 <a href="https://github.com/Rakibul-Hashan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rakibul+Hashan+Rabbi;Web+Developer+from+Dhaka%2C+Bangladesh;WordPress+%7C+Shopify+%7C+React+%7C+Next.js;6%2B+Years+%7C+250%2B+Projects+Delivered;100%25+Job+Success+Score+on+Upwork" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social links -->
 <p>
   <a href="https://www.linkedin.com/in/rakibulhashanrabbi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -64,12 +62,12 @@ Currently pursuing a **B.Sc. in Computer Science and Engineering** at Bangladesh
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-bay-three-93.vercel.app/api?username=Rakibul-Hashan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakibul-Hashan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
   <img src="https://streak-stats.demolab.com/?user=Rakibul-Hashan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="49%"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats-bay-three-93.vercel.app/api/top-langs/?username=Rakibul-Hashan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-Hashan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%"/>
 </p>
 
 ---
